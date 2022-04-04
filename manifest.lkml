@@ -3,7 +3,7 @@ project_name: "block-gcp-billing"
 ################ Constants ################
 
 constant: CONNECTION_NAME {
-  value: "gcp_logging"
+  value: "4mile_bigquery_davidb"
   export: override_optional
 }
 
